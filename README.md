@@ -20,8 +20,11 @@ This model is similar to Netflix's recommendation system, utilizing collaborativ
 
 # Features
 Personalized Recommendations: Offers content recommendations tailored to individual user preferences and behaviors.
+
 Scalability: Designed to handle large volumes of data efficiently using PySpark.
+
 Flexibility: Supports various recommendation strategies, including collaborative filtering and content-based methods.
+
 Real-Time Integration: Capable of being integrated into a real-time system for dynamic user interaction.
 
 # Key Components:
